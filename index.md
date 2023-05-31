@@ -10,3 +10,11 @@
 ![Imagen de Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 [Texto alternativo para la imagen](https://octodex.github.com/images/yaktocat.png)
+
+**Ejemplo JAVASCRIPT**
+```javascript
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
+
